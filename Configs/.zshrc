@@ -89,3 +89,14 @@ alias ssh='kitten ssh'
 
 #Display Pokemon
 pokemon-colorscripts --no-title -r 1,3,6
+
+# fzf
+# export FZF_DEFAULT_COMMAND=
+# export FZF_DEFAULT_OPTS=
+# export FZF_DEFAULT_OPTS_FILE=
+# export FZF_CTRL_T_COMMAND=
+# export FZF_ALT_C_COMMAND= 
+eval "$(fzf --zsh)"
+
+# zoxide
+eval "$(zoxide init zsh)"

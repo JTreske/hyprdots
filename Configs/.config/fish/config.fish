@@ -23,3 +23,14 @@ abbr mkdir 'mkdir -p'
 
 # Fixes "Error opening terminal: xterm-kitty" when using the default kitty term to open some programs through ssh
 alias ssh='kitten ssh'
+
+# fzf
+# set -x FZF_DEFAULT_COMMAND
+# set -x FZF_DEFAULT_OPTS
+# set -x FZF_DEFAULT_OPTS_FILE
+# set -x FZF_CTRL_T_COMMAND
+# set -x FZF_ALT_C_COMMAND 
+fzf --fish | source
+
+# zoxide
+zoxide init fish | source
