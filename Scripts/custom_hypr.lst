@@ -14,6 +14,7 @@ bluez                                                  # bluetooth protocol stac
 bluez-utils                                            # bluetooth utility cli
 blueman                                                # bluetooth manager gui
 brightnessctl                                          # screen brightness control
+dex                                                    # desktop entry execution
 
 
 # --------------------------------------------------- // Display Manager
@@ -50,6 +51,8 @@ qt5-imageformats                                       # for dolphin image thumb
 ffmpegthumbs                                           # for dolphin video thumbnails
 kde-cli-tools                                          # for dolphin file type defaults
 kservice5                                              # for "open with" menu in dolphin
+gnome-keyring                                          # stores passwords and encryption keys
+libsecret                                              # library for storing and retrieving passwords and other secrets
 
 
 # --------------------------------------------------- // Theming
@@ -62,12 +65,18 @@ qt6-wayland                                            # wayland support in qt6
 
 
 # --------------------------------------------------- // Applications
-firefox                                                # browser
 kitty                                                  # terminal
+htop                                                   # monitor running processes
+bat                                                    # better cat alternative
+nwg-displays                                           # monitor setup
+seahorse                                               # application for managing PGP keys
 dolphin                                                # kde file manager
 ark                                                    # kde file archiver
-vim                                                    # terminal text editor
-visual-studio-code-bin                                 # ide text editor
+nano                                                   # terminal text editor
+gwenview                                               # image viewer and (simple) editor
+okular                                                 # document viewer
+elisa                                                  # music player
+vlc                                                    # video player
 
 
 # --------------------------------------------------- // Shell

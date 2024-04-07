@@ -1,13 +1,61 @@
-#neovim
-#emote
-#trash-cli-git
-#downgrade
-steam
-gamemode
-#gamescope
-mangohud
-cava
-spotify
-spicetify-cli
-#libinput-gestures
-#gestures
+## Custom Apps
+
+### Browser
+
+firefox # best browser for wayland # choose one or both
+#firefox-developer-edition # firefox for developer # choose one or both
+google-chrome # chromium based browser
+
+### Office
+
+libreoffice-fresh # newest version of LibreOffice
+
+### Gaming
+
+#gamemode # games can request optimizations applied to the host os
+#mangohud # overlay for monitoring system performance
+#protonup-qt # install and manage compatibility tools like GE-Proton
+#lutris # Gaming Platform
+
+### Social
+
+#discord # Discord app # choose one
+#vesktop-bin # better discord app with native wayland support # choose one
+#telegram-desktop # Telegram client
+#whatsapp-for-linux # unofficial WhatsApp client
+#thunderbird # email client # choose one
+betterbird-bin # fine-tuned version of Thunderbird # choose one
+
+### Development
+
+visual-studio-code-bin # vscode proprietary Microsoft release # choose one # recommended
+#code # vscode official open source release # choose one
+#vscodium # vscode community open source release # choose one
+
+### Miscellaneous
+
+#gimp # image editing and compositing like Adobe Photoshop
+#darktable # develope raw images like Adobe Lightroom
+#krita # sketching and painting
+#incscape # vector graphic editor
+#davinci-resolve # video editing, color grading, visual effects, ... # install #davinci-resolve-studio if you have the paid version
+#natron # video compositing like Adobe Aftereffects
+#blender # 3D creation suite (modeling, rigging, animation, simulation, rendering, compositing, motion tracking)
+#freecad # 3D CAD software # you can also use Blender
+#ardour # audio recording, editing, mixing
+#lmms # composing music
+#musecore # music notation software
+#scribus # desktop publishing software like Adobe InDesign
+#obs-studio # video recording and live streaming
+#spotify-launcher # Spotify music streaming with auto update # choose one
+spotify # AUR package of Spotify without auto update (spotify-flags.conf can be used to run under wayland) # choose one
+spicetify-cli # spotify client customization
+video-downloader # simple downloader for YouTube, etc.
+#jellyfin-media-player # self-hosted streaming client
+#calibre # e-book management software
+#nextcloud-client # client to connect to nextcloud server
+#bitwarden # password manager
+#huawei-wmi # for huawei matebooks
+#matebook-applet # for huawei matebooks
+
+### Add Your Own Apps
