@@ -14,6 +14,7 @@ bluez                                                  # bluetooth protocol stac
 bluez-utils                                            # bluetooth utility cli
 blueman                                                # bluetooth manager gui
 brightnessctl                                          # screen brightness control
+udiskie                                                # manage removable media
 dex                                                    # desktop entry execution
 
 
@@ -22,7 +23,6 @@ sddm                                                   # display manager for KDE
 qt5-quickcontrols                                      # for sddm theme ui elements
 qt5-quickcontrols2                                     # for sddm theme ui elements
 qt5-graphicaleffects                                   # for sddm theme effects
-
 
 # --------------------------------------------------- // Window Manager
 hyprland                                               # wlroots-based wayland compositor
@@ -38,9 +38,8 @@ slurp                                                  # region select for scree
 swappy                                                 # screenshot editor
 cliphist                                               # clipboard manager
 
-
 # --------------------------------------------------- // Dependencies
-polkit-kde-agent                                       # authentication agent
+polkit-gnome                                           # authentication agent
 xdg-desktop-portal-hyprland                            # xdg desktop portal for hyprland
 pacman-contrib                                         # for system update check
 python-pyamdgpuinfo                                    # for amd gpu info
@@ -54,15 +53,16 @@ kservice5                                              # for "open with" menu in
 gnome-keyring                                          # stores passwords and encryption keys
 libsecret                                              # library for storing and retrieving passwords and other secrets
 
+libnotify                                              # for notifications
 
 # --------------------------------------------------- // Theming
 nwg-look                                               # gtk configuration tool
 qt5ct                                                  # qt5 configuration tool
 qt6ct                                                  # qt6 configuration tool
-kvantum                                                # svg based qt theme engine
+kvantum                                                # svg based qt6 theme engine
+kvantum-qt5                                            # svg based qt5 theme engine
 qt5-wayland                                            # wayland support in qt5
 qt6-wayland                                            # wayland support in qt6
-
 
 # --------------------------------------------------- // Applications
 kitty                                                  # terminal
@@ -85,12 +85,11 @@ oh-my-zsh-git|zsh                                      # plugin manager for zsh
 zsh-theme-powerlevel10k|zsh oh-my-zsh-git              # theme for zsh
 lsd|fish                                               # file lister for fish
 starship|fish                                          # customizable shell prompt
-neofetch                                               # fetch tool
+fastfetch                                              # system information fetch tool
 pokemon-colorscripts-git|zsh                           # display pokemon sprites
 zoxide                                                 # smart cd command
 fzf                                                    # find files and folders faster
 
 
-# --------------------------------------------------- // Hyprdots
-hyprdots-ctl-git                                       # cli tool to manage hyprdots
-
+# --------------------------------------------------- // HyDE
+hyde-cli-git                                           # cli tool to manage hyde
