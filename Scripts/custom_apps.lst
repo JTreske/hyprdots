@@ -9,6 +9,7 @@ google-chrome # chromium based browser
 ### Office
 
 libreoffice-fresh # newest version of LibreOffice
+qalculate-gtk # calculator
 
 ### Gaming
 
@@ -34,6 +35,8 @@ visual-studio-code-bin # vscode proprietary Microsoft release # choose one # rec
 
 ### Miscellaneous
 
+#mission-center # gui system monitoring
+#qpwgraph # gui pipewire graph interface
 #gimp # image editing and compositing like Adobe Photoshop
 #darktable # develope raw images like Adobe Lightroom
 #krita # sketching and painting
@@ -48,9 +51,9 @@ visual-studio-code-bin # vscode proprietary Microsoft release # choose one # rec
 #scribus # desktop publishing software like Adobe InDesign
 #obs-studio # video recording and live streaming
 #spotify-launcher # Spotify music streaming with auto update # choose one
-spotify # AUR package of Spotify without auto update (spotify-flags.conf can be used to run under wayland) # choose one
-spicetify-cli # spotify client customization
-video-downloader # simple downloader for YouTube, etc.
+#spotify # AUR package of Spotify without auto update (spotify-flags.conf can be used to run under wayland) # choose one
+#spicetify-cli # spotify client customization
+#video-downloader # simple downloader for YouTube, etc.
 #jellyfin-media-player # self-hosted streaming client
 #calibre # e-book management software
 #nextcloud-client # client to connect to nextcloud server

@@ -17,7 +17,6 @@ brightnessctl                                          # screen brightness contr
 udiskie                                                # manage removable media
 dex                                                    # desktop entry execution
 
-
 # --------------------------------------------------- // Display Manager
 sddm                                                   # display manager for KDE plasma
 qt5-quickcontrols                                      # for sddm theme ui elements
@@ -31,6 +30,7 @@ rofi-lbonn-wayland-git                                 # application launcher
 waybar                                                 # system bar
 swww                                                   # wallpaper
 swaylock-effects-git                                   # lock screen
+swayidle                                               # idle manager
 wlogout                                                # logout menu
 grimblast-git                                          # screenshot tool
 hyprpicker                                             # color picker
@@ -52,7 +52,6 @@ kde-cli-tools                                          # for dolphin file type d
 kservice5                                              # for "open with" menu in dolphin
 gnome-keyring                                          # stores passwords and encryption keys
 libsecret                                              # library for storing and retrieving passwords and other secrets
-
 libnotify                                              # for notifications
 
 # --------------------------------------------------- // Theming
@@ -73,11 +72,11 @@ seahorse                                               # application for managin
 dolphin                                                # kde file manager
 ark                                                    # kde file archiver
 nano                                                   # terminal text editor
+notepadqq                                              # gui text editor
 gwenview                                               # image viewer and (simple) editor
 okular                                                 # document viewer
 elisa                                                  # music player
 vlc                                                    # video player
-
 
 # --------------------------------------------------- // Shell
 eza|zsh                                                # file lister for zsh
@@ -89,7 +88,6 @@ fastfetch                                              # system information fetc
 pokemon-colorscripts-git|zsh                           # display pokemon sprites
 zoxide                                                 # smart cd command
 fzf                                                    # find files and folders faster
-
 
 # --------------------------------------------------- // HyDE
 hyde-cli-git                                           # cli tool to manage hyde
