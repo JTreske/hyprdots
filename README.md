@@ -1,5 +1,9 @@
 ###### *<div align="right"><sub>// design by t2</sub></div>*
-
+<div align = center>
+    <a href="https://discord.gg/AYbJ9MJez7">
+        <img src="https://img.shields.io/discord/1200448076620501063?style=for-the-badge&logo=discord&label=The%20HyDe%20Project&labelColor=ebbcba&color=c79bf0&link=https%3A%2F%2Fdiscord.gg%2FAYbJ9MJez7">
+    </a>
+</div>
 <div align="center">
 
 ![hyde_banner](https://raw.githubusercontent.com/prasanthrangan/hyprdots/main/Source/assets/hyde_banner.png)
@@ -14,8 +18,11 @@
   <a href="https://github.com/prasanthrangan/hyprdots/wiki"><kbd> <br> Wiki <br> </kbd></a>&ensp;&ensp;
   <a href="https://discord.gg/qWehcFJxPa"><kbd> <br> Discord <br> </kbd></a>
 
-<br><br><img width="15%" src="https://raw.githubusercontent.com/prasanthrangan/hyprdots/main/Source/assets/arch.png"/><br><br><br></div>
+</div><br><br>
 
+https://github.com/prasanthrangan/hyprdots/assets/106020512/7f8fadc8-e293-4482-a851-e9c6464f5265
+
+<br><div align="center"><img width="12%" src="https://raw.githubusercontent.com/prasanthrangan/hyprdots/main/Source/assets/arch.png"/><br></div>
 
 ## Installation
 
