@@ -9,7 +9,7 @@ done
 # waybar is now started
 # give some extra time
 
-sleep 1
+sleep 5
 
 # launch all autostart applications using dex
 dex -a -s ~/.config/autostart/ > /dev/null 2>&1
