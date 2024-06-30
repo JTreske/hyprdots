@@ -22,6 +22,7 @@ qalculate-gtk # calculator
 ### Social
 
 #discord # Discord app # choose one
+#webcord # wrapper for the discord web client with support for screen sharing on wayland # choose one
 #vesktop-bin # better discord app with native wayland support # choose one
 #telegram-desktop # Telegram client
 #whatsapp-for-linux # unofficial WhatsApp client
