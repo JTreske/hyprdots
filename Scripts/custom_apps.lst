@@ -18,6 +18,10 @@ qalculate-gtk # calculator
 #protonup-qt # install and manage compatibility tools like GE-Proton
 #lutris # Gaming Platform
 #gamescope # microcompositor from Valve with support for upscaling
+#xone-dlundqvist-dkms-git # support for gamepads
+#xone-dongle-firmware # wireless dongle support for gamepads
+#xpad-noone-git # for Xbox 360 controllers (or bluetooth)
+#sunshine # self-hosted GameStream host for Moonlight
 
 ### Social
 
@@ -38,6 +42,7 @@ visual-studio-code-bin # vscode proprietary Microsoft release # choose one # rec
 ### Miscellaneous
 
 #mission-center # gui system monitoring
+#btop # terminal system monitoring
 #qpwgraph # gui pipewire graph interface
 #gimp # image editing and compositing like Adobe Photoshop
 #darktable # develope raw images like Adobe Lightroom
@@ -50,6 +55,7 @@ visual-studio-code-bin # vscode proprietary Microsoft release # choose one # rec
 #ardour # audio recording, editing, mixing
 #lmms # composing music
 #musecore # music notation software
+#puddletag # audio tag editor
 #scribus # desktop publishing software like Adobe InDesign
 #obs-studio # video recording and live streaming
 #spotify-launcher # Spotify music streaming with auto update # choose one
